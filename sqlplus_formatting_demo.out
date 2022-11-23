@@ -1,0 +1,22 @@
+
+TODAY                GLOBAL_NAME
+-------------------- ----------------------------------------
+2019/04/04 14:41:59  CI67
+
+
+NUMBER_FORMAT_TEST NUMBER_FORMAT_TEST
+------------------ ------------------
+            004567            #######
+
+
+TABLESPACE_NAME                                    SIZE_IN_MB
+-------------------------------------------------- ----------
+SYSAUX                                                  49152
+UNDOTBS1                                                96256
+USERS                                                    2048
+SYSTEM                                                   6144
+SYSAUD                                                   6144
+TEST_TS                                               1638400
+
+6 rows selected.
+
